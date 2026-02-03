@@ -9,7 +9,7 @@
 Проект выполнен по техническому заданию на разработку клиентской части сервиса
 поиска публикаций о компаниях с использованием готового backend API.
 
-Ссылка на ТЗ с курсов (Skillfactory) - 
+Ссылка на ТЗ с курсов (Skillfactory) - [https://drive.google.com/file/d/1yJK0KueGUHzZNuJRfutkAL-9T60PXdYP/view?usp=drive_link]
 
 
 ## Реализованный функционал
